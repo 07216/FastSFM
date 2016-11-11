@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1450607752 source:d:\stfile\documents\github\fastsfm\dancingsfm.cpp
+	"DancingSFM.h"
+
+1450607810 d:\stfile\documents\github\fastsfm\dancingsfm.h
+	<iostream>
+	<windows.h>
+	<string>
+	<sstream>
+	<fstream>
+
+1450625792 source:d:\stfile\documents\github\fastsfm\test.cpp
+	<iostream>
+	<fstream>
+	"DancingSFM.h"
+
